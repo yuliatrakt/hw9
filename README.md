@@ -24,3 +24,4 @@
 Бонусное задание я выполняла в несколько действий. По очереди вставляя пробелы после необходимых знаков препинания. 
 ![](https://github.com/yuliatrakt/hw9/blob/master/изобр%205.jpg)
 ![](https://github.com/yuliatrakt/hw9/blob/master/изобр%206.jpg)
+![](https://github.com/yuliatrakt/hw9/blob/master/изобр%207.jpg)
