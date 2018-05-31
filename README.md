@@ -25,3 +25,4 @@
 ![](https://github.com/yuliatrakt/hw9/blob/master/изобр%205.jpg)
 ![](https://github.com/yuliatrakt/hw9/blob/master/изобр%206.jpg)
 ![](https://github.com/yuliatrakt/hw9/blob/master/изобр%207.jpg)
+![](https://github.com/yuliatrakt/hw9/blob/master/изобр%208.jpg)
